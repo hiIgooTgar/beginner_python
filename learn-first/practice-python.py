@@ -1,0 +1,5 @@
+print("Hello Python")
+print("My Name is Igo Tegar Prambudhy")
+print("I'am Student")
+print("My gender male")
+print("This is project first about python")
