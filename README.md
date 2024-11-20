@@ -1,1 +1,1 @@
-## Learn Pyhton - Beginner
+## Learn Python - Beginner
